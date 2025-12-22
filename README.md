@@ -13,7 +13,7 @@
 - 🔒 Security+ Certified Professional
 - 🏗️ Advanced Enterprise Cybersecurity Homelab  
 - ⚡ Infrastructure Security Background
-- 🚀 **Available for Immediate Hire ($85K-$120K)**
+
 
 ## 🛡️ Cybersecurity Arsenal
 
@@ -75,6 +75,16 @@
 ### Systems Administrator | Previous Roles
 **Seattle Area | 2018 - 2022**
 
+
+### Professional Development & Transition | Current
+**2024 - Present**
+
+- 🏗️ **Advanced Homelab Development**: Building enterprise-grade cybersecurity infrastructure with 3-node Proxmox cluster
+- 📚 **Certification Progress**: Actively pursuing CEH certification with hands-on penetration testing practice
+- 🔬 **Security Research**: Contributing to cybersecurity community through GitHub projects and technical documentation
+- 🎯 **Career Transition**: Strategic pivot from SOC defense operations to offensive security and penetration testing
+
+
 - 🖥️ **Infrastructure Management**: Administered Windows/Linux enterprise environments with VMware virtualization
 - 🔐 **Security Implementation**: Deployed and managed enterprise security tools including firewalls, IDS/IPS, and VPNs  
 - 📈 **Performance Optimization**: Improved system reliability and reduced downtime through proactive monitoring
@@ -86,11 +96,10 @@
 
 - 🏆 **CompTIA Security+** | Certified Professional
 - 📚 **CEH (Certified Ethical Hacker)** | In Progress (Target: Q2 2026)
-- 🎓 **Bachelor's Degree in Information Technology** | [University Name]
+
 - 📜 **Continuous Learning**: TryHackMe, HTB Academy, Cybersecurity courses
 
 ---
-
 **🎯 Currently Seeking**: SOC Analyst, Penetration Tester, or Cybersecurity Analyst roles in Seattle area
 
 **💰 Target Compensation**: $85,000 - $120,000
