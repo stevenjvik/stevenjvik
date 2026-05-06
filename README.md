@@ -8,7 +8,7 @@ Available for cybersecurity, DevOps, and infrastructure roles — remote or Seat
 
 ## What I'm Working On
 
-- **[SJVIK Labs](https://stevenjvik.tech)** — security research, infrastructure automation, and homelab engineering
+- **[SJVIK Labs](https://sjviklabs.com)** — practitioner-built tools and books for cybersecurity and DevOps work. The business surface lives at [github.com/sjviklabs](https://github.com/sjviklabs).
 - **SJVIK NOC** — 3-node Proxmox cluster, 14 LXC containers, 4 VLANs, HA failover, Wazuh SIEM, Ansible IaC, Grafana + Loki monitoring, tested DR
 - **SOC Lab** — public IR playbooks, Sigma detection rules, and hardening baselines
 - B.S. Cybersecurity & Information Assurance at WGU (returning summer 2026)
@@ -18,8 +18,9 @@ Available for cybersecurity, DevOps, and infrastructure roles — remote or Seat
 | Project | What It Does |
 |---------|-------------|
 | [sec-lab](https://github.com/sjviklabs/sec-lab) | SOC/IR playbooks, Sigma rules, Ansible hardening roles |
-| [brand-site](https://stevenjvik.tech) | Portfolio, case studies, and SJVIK Labs landing — Astro 6 + Tailwind 4 |
-| [squire-mod-v2](https://github.com/sjviklabs/squire-mod-v2) | Minecraft companion mod — NeoForge 1.21.1, custom FSM, Geckolib |
+| [brand-site](https://stevenjvik.tech) | Portfolio + case studies — Astro 6 + Tailwind 4 |
+| [squire-mod-v2](https://github.com/stevenjvik/squire-mod-v2) | Minecraft companion mod — NeoForge 1.21.1, custom FSM, Geckolib |
+| [claude-code-internals](https://github.com/stevenjvik/claude-code-internals) | Rust reimplementation of Claude Code's agent harness, 6 crates with MCP support |
 | Control panel | Infrastructure dashboard — goals, KPIs, monitoring (private) |
 | Ansible IaC | Playbooks for 3-node Proxmox cluster (private) |
 | [Tahala](https://tahala.stevenjvik.tech) | D&D campaign portal — React 19, session timeline, media player |
@@ -40,4 +41,6 @@ Security+ · Network+ · A+ · ITIL · Linux Essentials · CJIS Level 4 · Googl
 
 ---
 
-[stevenjvik.tech](https://stevenjvik.tech) · [SJVIK Labs](https://github.com/sjviklabs) · [LinkedIn](https://linkedin.com/in/stevenjvik)
+**Two surfaces:** This personal account hosts hobbyist work, side projects, and resume-style portfolio code. The SJVIK Labs business surface — books, products, customer-facing tools — lives at [github.com/sjviklabs](https://github.com/sjviklabs).
+
+[stevenjvik.tech](https://stevenjvik.tech) · [SJVIK Labs](https://sjviklabs.com) · [LinkedIn](https://linkedin.com/in/stevenjvik)
