@@ -1,6 +1,6 @@
 # Steve Vik
 
-Cybersecurity engineer with 5+ years across SOC operations, incident response, and compliance. I also build things — I run the SJVIK NOC, a VLAN-segmented 3-node Proxmox operations center with 14 LXC services, Wazuh SIEM, Infrastructure as Code, and full observability stack.
+Cybersecurity engineer with 10+ years across SOC operations, incident response, and compliance. I also build things — I run the SJVIK NOC, a VLAN-segmented 3-node Proxmox operations center with 14 LXC services, Wazuh SIEM, Infrastructure as Code, and full observability stack.
 
 Available for cybersecurity, DevOps, and infrastructure roles — remote or Seattle metro.
 
